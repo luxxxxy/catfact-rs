@@ -6,6 +6,7 @@ authors = ["aspen <luxx4x@protonmail.com>"]
 edition = "2018"
 categories = ["api-bindings"]
 keywords = ["cat", "cats", "api", "catfacts", "catfact"]
+license = "Zlib"
 license-file = "LICENSE"
 homepage = "https://github.com/luxxxxy/catfact-rs"
 repository = "https://github.com/luxxxxy/catfact-rs"
